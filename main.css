@@ -4,12 +4,25 @@
     background-color: aliceblue;
 }
 .titlestyle{
+   
     font-family: 'Questrial', sans-serif;
     color:#363d36;
     background-color: #233D4D;
-    box-sizing: border-box; padding: 25px;
+   
+    
 }
-
+.flexstyle{   
+    display: flex;
+    padding: 5px;
+    flex: 2;
+    box-sizing: border-box; 
+}
+.flexstylehome{   
+    display: flex;
+    padding: 5px;
+    flex: 1;
+    box-sizing: border-box; 
+}
 .H1style{   
     font-family: 'Questrial', sans-serif;
     color:#63728D;
